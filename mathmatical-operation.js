@@ -1,0 +1,15 @@
+var onionprice =43;
+var eggprice =70;
+var eggQuantity = 5;
+var moneyAvialable =100;
+var eggQuantity = moneyAvialable / eggprice;
+var totalprice = onionprice+eggprice;
+var pricedifference = onionprice-eggprice;
+var eggPriceMultiplication = eggprice * eggQuantity;
+// console.log(totalprice);
+// console.log(onionprice);
+// console.log(eggprice);
+// console.log(onionprice+eggprice);
+console.log(pricedifference);
+console.log(eggPriceMultiplication);
+console.log(eggQuantity);
